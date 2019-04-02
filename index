@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
-  <!– Aqui es la parte de el encabezado de la pagina web ->
-  <title> ¬_¬ </title>
+  <!â€“ Aqui es la parte de el encabezado de la pagina web ->
+  <title> Â¬_Â¬ </title>
   <head> 
   <img src= "memes/meme review.png" height="192" width="auto" align ="left" draggable="false" onContextMenu="return false;"> 
   <div align="center"> <font face="arial"> <b>Copyright 2019 Memes Inc. &reg; </font> </div> </b>
@@ -108,7 +108,7 @@
   <tr>
   <td style="background-image: url('memes/send.png'); background-position:center; background-repeat:no-repeat; width="10" height="20"> <center>  <a href="https://www.youtube.com/watch?v=Jv0QKSgecAE"target="_blank"> <img src= "memes/potencial.png" height="200" width="auto" draggable="false"target="_blank"></a><br> <font size="5" color="white" face="palatino linotype"> Mira ese potencial </center> </td></br>
   <td style="background-image: url('memes/send.png'); background-position:center; background-repeat:no-repeat; width="10" height="20"> <center>  <a href="https://es.memedroid.com/memes/tag/que+buen+servicio"target="_blank"> <img src= "memes/servicio.png" height="200" width="auto" draggable="false"target="_blank"></a><br> <font size="5" color="white" face="palatino linotype"> Que buen servicio </center> </td></br>
-  <td style="background-image: url('memes/send.png'); background-position:center; background-repeat:no-repeat; width="10" height="20"> <center>  <a href="https://www.youtube.com/watch?v=JAGAds8GiO4"target="_blank"> <img src= "memes/huevos.png" height="200" width="auto" draggable="false"target="_blank"></a><br> <font size="5" color="white" face="palatino linotype"> Mira el tamaño de esos huevos </center> </td></br>
+  <td style="background-image: url('memes/send.png'); background-position:center; background-repeat:no-repeat; width="10" height="20"> <center>  <a href="https://www.youtube.com/watch?v=JAGAds8GiO4"target="_blank"> <img src= "memes/huevos.png" height="200" width="auto" draggable="false"target="_blank"></a><br> <font size="5" color="white" face="palatino linotype"> Mira el tamaÃ±o de esos huevos </center> </td></br>
   <td style="background-image: url('memes/send.png'); background-position:center; background-repeat:no-repeat; width="10" height="20"> <center>  <a href="https://www.youtube.com/watch?v=Wb4nPaMLD3A"target=_"blank"> <img src= "memes/E.png" height="200" width="auto" draggable="false"target="_blank"></a><br> <font size="5" color="white" face="palatino linotype"> E </center> </td></br>
   </tr>
   <tr>
